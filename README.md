@@ -2,9 +2,9 @@
 
 ## Network Analysis using NetworkX and Gwik:
 
-Number of nodes: 11381
-Number of edges: 181999
-Average degree:  31.9830
+Number of nodes: 11381<br>
+Number of edges: 181999<br>
+Average degree: 31.9830<br>
 
 ## NetworkX visualizations:
 
